@@ -1,7 +1,7 @@
 # Hockey_Squad_Maker
 
 ## Assumption 
-I am giving equal importance to all skills while distributing players in squads as I am not aware about this game.
+I am giving equal importance to all skills while distributing players in squads as I am not aware about rules of this game.
 
 ## Information 
 I have used eclipse neon IDE with Tomcat7.0 server.

@@ -1,17 +1,18 @@
 # Hockey_Squad_Maker
 
-Assumption : I am giving equal importance to all skills while distributing players in squads.
+## Assumption 
+I am giving equal importance to all skills while distributing players in squads as I am not aware about this game.
 
-Information : I used eclipse neon  IDE with Tomcat7.0 server.
+## Information 
+I have used eclipse neon IDE with Tomcat7.0 server.
 
-Follow below mentioned step to run this project : 
+## Step to run project 
 
-(1) download zip file  from git repository (https://github.com/mchatrola/Hockey_Squad_Maker)
-(2) unzip it in a local folder
-(3) download and install any eclipse with tomcat 
-(4) open eclipse and import this project in your workspace
-(5) add tomcat server to the project
-(6) clean and build the project
-(7) start the server
-(8) run the web project
-(9) you can change data in player.json file to see different output
+1. Clone git repository (https://github.com/mchatrola/Hockey_Squad_Maker)
+2. Download and install any eclipse with tomcat 
+3. Open eclipse and import this project in your workspace
+4. Add tomcat server to the project
+5. Clean and build the project
+6. Start tomcat server
+7. Run the web project
+8. You can change data in player.json file to see different output

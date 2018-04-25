@@ -80,7 +80,7 @@ function loadJsonFile()
         <display:column property="formattedName" title="Player" sortable="true" headerClass="sortable" />
         <display:column property="skating" title="Skating" sortable="true" headerClass="sortable" />
         <display:column property="shooting" title="Shooting" sortable="true" headerClass="sortable" />
-        <display:column property="checking" title="Shecking" sortable="true" headerClass="sortable" />
+        <display:column property="checking" title="checking" sortable="true" headerClass="sortable" />
     </display:table>    
     
     <br/>
